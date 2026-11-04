@@ -27,3 +27,7 @@ Subir `index.html` y `README.md` (NO el archivo ZIP) a la raíz de un repositori
 
 ## Seguridad
 Negocio y precios ficticios; no incluir datos de clientes, contraseñas, credenciales ni datos bancarios.
+
+
+## Mejora V2 tras primera prueba
+Se agregó un descuento ficticio del 10 % para pedidos de lavado y secado de 10 kg o más, aplicado solo al subtotal antes de sumar la tarifa de entrega. Se muestra en la cotización y en el resumen copiado. Ejemplos: 10 kg sin entrega: $14,40; 10 kg con entrega: $16,40; 9 kg con entrega: $16,40. Se mantiene el aviso de que los precios son ficticios.
